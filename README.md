@@ -1,4 +1,4 @@
-# AIF_GAN
+# AIF GAN
 Official codes for "Improving the reliability of pharmacokinetic parameters in dynamic contrast-enhanced MRI in astrocytomas: Deep learning approach" published in Radiology
 - Transforms the arterial input function (AIF) obtained from DCE-MRI into one obtained from DSC-MRI, which improves reliability of Ktrans, Ve, and Vp maps
 - Basically, a pix2pix model using Wasserstein GAN with gradient penalty (WGAN-GP) loss 
